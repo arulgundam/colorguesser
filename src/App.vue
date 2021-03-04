@@ -49,7 +49,7 @@ export default {
       green: Math.floor((Math.random() * 256)),
       blue: Math.floor((Math.random() * 256)),
       score: 4,
-      time: 3,
+      time: 30,
       frame: 0
     }
   },
